@@ -1,4 +1,4 @@
-# 💫Yucraj dixit (Yuvii)
+# 💫 Hii👋 I'm  Yucraj dixit (Yuvii)
 💫 About Me:
 🚀 Web Developer | DevOps Engineer-in-the-making  <br>💻 Crafting clean code, scalable infra & smooth CI/CD pipelines  <br>🔧 Passionate about automation, cloud, and cutting-edge tech  <br>🎯 Turning complex problems into elegant solutions  <br>👨‍💻 Always learning, building, and pushing limits  <br>📫 Let's connect: [dixitji017@gmail.com]<br>
 
